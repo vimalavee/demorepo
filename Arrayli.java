@@ -9,7 +9,7 @@ public class Arrayli {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		/*ArrayList<Integer> al=new ArrayList<>();
+		ArrayList<Integer> al=new ArrayList<>();
 		al.add(2);
 		al.add(4);
 		al.add(5);
@@ -41,7 +41,7 @@ public class Arrayli {
 		System.out.println(li.isEmpty());
 		System.out.println(al.indexOf(null));
 		Object ar[]=al.toArray();
-		System.out.println(Arrays.toString(ar));*/
+		System.out.println(Arrays.toString(ar));
 		LinkedList<Integer> ll=new LinkedList<>();
 		ll.add(20);
 		ll.add(40);
